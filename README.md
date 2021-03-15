@@ -8,7 +8,7 @@ This passion has now lead me down the path of software engineering: Understandin
 - Databases - MySQL, MongoDB/Mongoose
 - Languages - JavaScript (ES5/ES6+), SQL, HTML, CSS
 - Testing - Jest, Enzyme, Mocha, Chai, CircleCI
-- Tools - Git, NPM, Webpack, Babel, Docker, AWS, Trello 
+- Tools - Git, NPM, Webpack, Babel, Docker, AWS, Heroku, Trello 
 
 #### Contact me here:
 - Email: karim.e.zamrini@gmail.com
