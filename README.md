@@ -4,12 +4,11 @@ Since I was a child, my brain has always wanted to know more, and to better unde
 This passion has now lead me down the path of software engineering: Understanding and building useful, interesting, and modular applications. Learning the tools to build software has opened my eyes to the endless posibilities of programming. I'm thrilled to keep learning, and for the opportunity to build and work on many more exciting projects!
 
 #### I'm currently learning full-stack web development at Hack Reactor, with a focus on:
-- JavaScript
-- Node.js
-- Express.js
-- MySQL
-- MongoDB/Mongoose
-- React.js
+- Libraries/Frameworks - Node.js, Express.js, React, JQuery
+- Databases - MySQL, MongoDB/Mongoose
+- Languages - JavaScript (ES5/ES6+), SQL, HTML, CSS, JSX, JSON
+- Testing - Jest, Enzyme, Mocha, Chai, CircleCI
+- Tools - Git, NPM, Webpack, Babel, Docker, AWS, Trello 
 
 #### Contact me here:
 - Email: karim.e.zamrini@gmail.com
