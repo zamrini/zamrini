@@ -6,7 +6,7 @@ This passion has now lead me down the path of software engineering: Understandin
 #### I'm currently learning full-stack web development at Hack Reactor, with a focus on:
 - Libraries/Frameworks - Node.js, Express.js, React, JQuery
 - Databases - MySQL, MongoDB/Mongoose
-- Languages - JavaScript (ES5/ES6+), SQL, HTML, CSS, JSX, JSON
+- Languages - JavaScript (ES5/ES6+), SQL, HTML, CSS
 - Testing - Jest, Enzyme, Mocha, Chai, CircleCI
 - Tools - Git, NPM, Webpack, Babel, Docker, AWS, Trello 
 
