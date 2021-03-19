@@ -12,7 +12,7 @@ This passion has now lead me down the path of software engineering: Understandin
 
 #### Contact me here:
 - Email: karim.e.zamrini@gmail.com
-- LinkedIn: https://www.linkedin.com/in/karim-zamrini-88164380/
+- LinkedIn: https://www.linkedin.com/in/zamrini/
 
 <!---
 zamrini/zamrini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
