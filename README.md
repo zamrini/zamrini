@@ -1,4 +1,4 @@
-### 👋 Hello! My name is Karim Zamrini. I am an aspiring full-stack software engineer - Thank you for stopping by!
+### 👋 Hello! My name is Karim Zamrini. I am a full-stack software engineer - Thank you for stopping by!
 Since I was a child, my brain has always wanted to know more, and to better understand the world around me. What started as building LEGOs turned into building computers. I've always had a passion for learning, and advancing to the next step. 
 
 This passion has now lead me down the path of software engineering: Understanding and building useful, interesting, and modular applications. Learning the tools to build software has opened my eyes to the endless posibilities of programming. I'm thrilled to keep learning, and for the opportunity to build and work on many more exciting projects!
